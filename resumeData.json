@@ -33,7 +33,7 @@
       },
       {
         "name": "Linkedin",
-        "url": "https://www.linkedin.com/in/tonio-hiraki-b24991225",
+        "url": "https://www.linkedin.com/in/tonio-hiraki",
         "className": "fa-brands fa-linkedin"
       },
       {
@@ -63,6 +63,12 @@
       }
     ],
     "work": [
+      {
+        "company": "SparkUp Studios",
+        "title": "Senior Full Stack Engineer",
+        "years": "Jun 2022 - Present",
+        "description": "React.js, Next.js, TailwindCSS, Nest.js, PostgreSQL, AWS, SES, Stripe, Socket.io"
+      },
       {
         "company": "LuckyChip",
         "title": "Full-Stack Engineer (Website & Smart contracts)",
@@ -196,6 +202,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "SportzFan Website",
+        "category": "Game Website",
+        "image": "sportzfan.png",
+        "url": "https://about.sportzfan.io"
+      },
+      {
         "title": "Uniclix app",
         "category": "Social media management",
         "image": "uniclix.png",
@@ -242,12 +254,6 @@
         "category": "The world's most efficient DEX",
         "image": "deltafi.png",
         "url": "https://deltafi.ai"
-      },
-      {
-        "title": "Odesd",
-        "category": "Odesd Ecommerce site",
-        "image": "odesd.png",
-        "url": "https://odesd2.com"
       },
       {
         "title": "Leading dating",
