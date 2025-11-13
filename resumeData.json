@@ -3,37 +3,37 @@
     "name": "Tonio Hiraki",
     "description": "Seeing how my work can bring so much value to my clients is what drives my work ethic. I always love helping people create a digital space that provides value.",
     "image": "profilepic.png",
-    "bio": "For the last ten years, I've been working in the IT world as a team leader and developer in multiple languages and environments. My goal is always to understand your needs and objectives and to carefully consider what solution will work best for you and your customers. I can quickly help startups and enterprises with prototypes and ideas by efficiently building those things into reality. My expertise lies in building the Websites, Hybrid apps, Dapp, Defi with elegant UI/UX, modern front-end frameworks, scalable microservices, infrastructure modeling, smart contracts, cryptocurrency and AWS. With all that said, reach out and we can start crafting the website/web application/mobile application you have always dreamed of!",
+    "bio": "Creative full-stack web developer with 10+ years of experience delivering modern web applications enhanced with AI capabilities. Expert in designing and deploying AI agents—including chatbots, recommendation systems, and predictive models—to improve user engagement, automate workflows, and drive business impact. Strong background in front-end and back-end technologies, cloud solutions, and scalable AI integration.",
     "contactmessage": "Reach out by inviting me to your project. I look forward to it!",
-    "email": "toniohiraki@gmail.com",
-    "phone": "+1 (530) 334-6603",
+    "email": "topintel25@gmail.com",
+    "phone": "+1 (256) 243-5568",
     "address": {
-      "street": "2188 Bryant Street",
-      "city": "San Francisco",
-      "state": "California",
-      "zip": "94110, USA"
+      "street": "77 Chakrabongse Rd, Chana Songkhram",
+      "city": "Bangkok",
+      "state": "Thailand",
+      "zip": "10200"
     },
     "website": "https://tonio.topdreamworld.com",
-    "resumedownload": "https://drive.google.com/file/d/1HIp2YeGEG_K4995C5C8TiL-6xoRpENxw",
+    "resumedownload": "https://drive.google.com/file/d/1_AHbP5C1ZQFmlvepknbdmz2WvhbWvpgi",
     "social": [
       {
         "name": "Gmail",
-        "url": "mailto:toniohiraki@gmail.com",
+        "url": "mailto:topintel25@gmail.com",
         "className": "fa-brands fa-google"
       },
       {
         "name": "Telegram",
-        "url": "https://t.me/angelicsmile028",
+        "url": "https://t.me/myth528",
         "className": "fa-brands fa-telegram"
       },
       {
-        "name": "Skype",
-        "url": "https://join.skype.com/invite/vWuTVKaaENEA",
-        "className": "fa-brands fa-skype"
+        "name": "Discord",
+        "url": "https://discord.gg/YzVZs9aP",
+        "className": "fa-brands fa-discord"
       },
       {
         "name": "Linkedin",
-        "url": "https://www.linkedin.com/in/tonio-hiraki",
+        "url": "https://www.linkedin.com/in/myth528",
         "className": "fa-brands fa-linkedin"
       },
       {
@@ -43,12 +43,12 @@
       },
       {
         "name": "Stack Overflow",
-        "url": "https://stackoverflow.com/users/16007730/toniohk",
+        "url": "https://stackoverflow.com/users/16007730/myth",
         "className": "fa-brands fa-stack-overflow"
       },
       {
         "name": "Medium",
-        "url": "https://medium.com/@toniohiraki",
+        "url": "https://medium.com/@myth528",
         "className": "fa-brands fa-medium"
       }
     ]
@@ -59,15 +59,15 @@
         "school": "University of Toronto",
         "degree": "Bachelor's degree",
         "graduated": "Jul 2015",
-        "description": "I studied the Computer engineering."
+        "description": "I studied the Computer science."
       }
     ],
     "work": [
       {
         "company": "SparkUp Studios",
-        "title": "Senior Full Stack Engineer",
+        "title": "Senior Full Stack Engineer(Website & AI solutions)",
         "years": "Jun 2022 - Present",
-        "description": "React.js, Next.js, TailwindCSS, Nest.js, PostgreSQL, AWS, SES, Stripe, Socket.io"
+        "description": "React.js, Next.js, Python, Django, OpenAI, Chatgpt, Gemini, Langchain, ElevenLaps, AWS"
       },
       {
         "company": "LuckyChip",
@@ -106,12 +106,40 @@
         "level": "95%"
       },
       {
-        "name": "HTML5 / CSS3",
-        "level": "100%"
+        "name": "JavaScript / TypeScript",
+        "level": "95%"
       },
       {
-        "name": "JavaScript / TypeScript",
-        "level": "98%"
+        "name": "Python / Djanog / FastAPI",
+        "level": "93%"
+      },
+      {
+        "name": "LLM / NLP / AI agent",
+        "level": "94%"
+      },
+      {
+        "name": "ML/DL / Tensorflow / PyTorch",
+        "level": "75%"
+      },
+      {
+        "name": "Blockchain/Cryptocurrency",
+        "level": "70%"
+      },
+      {
+        "name": "Solidity/Ethereum/Binance",
+        "level": "72%"
+      },
+      {
+        "name": "Remix/Truffle/Hardhat",
+        "level": "69%"
+      },
+      {
+        "name": "NFT/Opensea",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5 / CSS3",
+        "level": "100%"
       },
       {
         "name": "TailwindCSS / BootStrap / Sementic UI",
@@ -130,20 +158,17 @@
         "level": "90%"
       },
       {
-        "name": "Python / Djanog / FastAPI",
-        "level": "86%"
-      },
-      {
-        "name": "Java / Spring",
-        "level": "84%"
-      },
-      {
         "name": "PHP / Laravel / CI",
         "level": "96%"
       },
       {
+        "name": "Java / Spring",
+        "level": "75%"
+      },
+      
+      {
         "name": "Ruby/Rails",
-        "level": "82%"
+        "level": "74%"
       },
       {
         "name": "React Native/Ionic",
@@ -176,26 +201,6 @@
       {
         "name": "Agile methodoloies",
         "level": "90%"
-      },
-      {
-        "name": "Blockchain/Cryptocurrency",
-        "level": "90%"
-      },
-      {
-        "name": "Solidity/Ethereum/Binance",
-        "level": "93%"
-      },
-      {
-        "name": "Rust/Cargo/Anchor/Solana",
-        "level": "82%"
-      },
-      {
-        "name": "Remix/Truffle/Hardhat",
-        "level": "94%"
-      },
-      {
-        "name": "NFT/Opensea",
-        "level": "93%"
       }
     ]
   },
@@ -203,7 +208,7 @@
     "projects": [
       {
         "title": "SportzFan Website",
-        "category": "Game Website",
+        "category": "AI-driven Game Website",
         "image": "sportzfan.png",
         "url": "https://about.sportzfan.io"
       },
