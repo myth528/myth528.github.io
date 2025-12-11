@@ -63,7 +63,12 @@
       }
     ],
     "work": [
-
+      {
+        "company": "Startup Butterflies AI",
+        "title": "Full Stack Engineer",
+        "years": "Aug 2023 - present",
+        "description": "React.js, Python, Scalable microservices, Web scraping, NLP, LLMs, AI models, social platform APIs, Workflow Automation"
+      },
       {
         "company": "SparkUp Studios",
         "title": "Full Stack Engineer",
