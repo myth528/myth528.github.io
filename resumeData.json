@@ -1,0 +1,256 @@
+{
+  "main": {
+    "name": "Michael Jin",
+    "description": "Seeing how my work can bring so much value to my clients is what drives my work ethic. I always love helping people create a digital space that provides value.",
+    "image": "profilepic.png",
+    "bio": "Creative full-stack developer with 10+ years of experience building modern, scalable web applications. Specializing in integrating AI from conversational agents to recommendation systems and predictive models to enhance user experience and automate complex workflows. Skilled across front-end, back-end, and cloud architectures, with a focus on delivering practical, high-impact solutions.",
+    "contactmessage": "Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂",
+    "email": "topintel25@gmail.com",
+    "phone": "+1 (803) 308-0138",
+    "address": {
+      "street": "30 Mill St",
+      "city": "Burke",
+      "state": "NY",
+      "zip": "12917"
+    },
+    "website": "https://michael.topintel.com",
+    "resumedownload": "https://drive.google.com/file/d/1dDgRF8cjWfYS0dJ9VuZWkPMOQGv2rytH/view",
+    "social": [
+      {
+        "name": "Gmail",
+        "url": "mailto:topintel25@gmail.com",
+        "className": "fa-brands fa-google"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/myth528",
+        "className": "fa-brands fa-telegram"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/YzVZs9aP",
+        "className": "fa-brands fa-discord"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/myth528",
+        "className": "fa-brands fa-linkedin"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/myth528",
+        "className": "fa-brands fa-github"
+      },
+      {
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com/users/16007730/myth",
+        "className": "fa-brands fa-stack-overflow"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@myth528",
+        "className": "fa-brands fa-medium"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Alfred University",
+        "degree": "Bachelor's degree",
+        "graduated": "May 2016",
+        "description": "Relevant Coursework: Data Structures, Algorithms, Web Development"
+      }
+    ],
+    "work": [
+      {
+        "company": "Startup Butterflies AI",
+        "title": "Full Stack Engineer",
+        "years": "Aug 2023 - present",
+        "description": "React.js, Python, Scalable microservices, Web scraping, NLP, LLMs, AI models, social platform APIs, Workflow Automation"
+      },
+      {
+        "company": "SparkUp Studios",
+        "title": "Full Stack Engineer",
+        "years": "Jun 2021 - Jul 2023",
+        "description": "React.js, Next.js, Tailwind CSS, Python, Django, AWS, Stripe, Minigame, Web3.js, Crypto Wallet"
+      },
+      {
+        "company": "LuckyChip IO",
+        "title": "Full-Stack Engineer (Website & Smart contracts)",
+        "years": "Sep 2020 - May 2021",
+        "description": "React.js, Ethers.js, Web3modal, Solidity, Erc20 token, Tokenomics, Smart contract, Binance Smart Chain"
+      },
+      {
+        "company": "Uniclixapp",
+        "title": "Full Stack Developer",
+        "years": "Jan 2018 - Sep 2020",
+        "description": "Develop UIs with JavaScript(React.js), HTML and CSS, Material UI. Created RESTful APIs with Laravel for increased scalability of the application. Integrate Stripe payment gateway, social APIs"
+      },
+      {
+        "company": "J & D Landscaping LLC",
+        "title": "Full Stack Developer",
+        "years": "Jun 2016 - Jan 2018",
+        "description": "Angular, Nest.js, PostgreSQL, AWS, Stripe, Google Maps API, OpenWeather API, Google Analytics"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React / Angular / Vue",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript / TypeScript",
+        "level": "95%"
+      },
+      {
+        "name": "Python / Djanog / FastAPI",
+        "level": "93%"
+      },
+      {
+        "name": "LLM / NLP / AI agent / Automation",
+        "level": "85%"
+      },
+      {
+        "name": "ML/DL / Tensorflow / PyTorch",
+        "level": "65%"
+      },
+      {
+        "name": "Blockchain/Cryptocurrency",
+        "level": "62%"
+      },
+      {
+        "name": "Solidity/Ethereum/Binance",
+        "level": "72%"
+      },
+      {
+        "name": "HTML5 / CSS3",
+        "level": "100%"
+      },
+      {
+        "name": "TailwindCSS / BootStrap / Sementic UI",
+        "level": "100%"
+      },
+      {
+        "name": "Node / Express / Nest",
+        "level": "94%"
+      },
+      {
+        "name": "RDBMS",
+        "level": "94%"
+      },
+      {
+        "name": "NoSQL",
+        "level": "90%"
+      },
+      {
+        "name": "PHP / Laravel / CI",
+        "level": "96%"
+      },
+      {
+        "name": "React Native/Flutter",
+        "level": "70%"
+      },
+      {
+        "name": "Restful API",
+        "level": "92%"
+      },
+      {
+        "name": "GraphQL/Apollo/Hasura",
+        "level": "89%"
+      },
+      {
+        "name": "C/C++/C#/VB/VB.Net",
+        "level": "82%"
+      },
+      {
+        "name": "Golang/Gorilla/Gin",
+        "level": "86%"
+      },
+      {
+        "name": "Amazon Web Services",
+        "level": "88%"
+      },
+      {
+        "name": "GCP/Azure",
+        "level": "82%"
+      },
+      {
+        "name": "Agile methodoloies",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SportzFan Website",
+        "category": "Game Website",
+        "image": "sportzfan.png",
+        "url": "https://about.sportzfan.io"
+      },
+      {
+        "title": "LuckyChip",
+        "category": "Casino Dapp",
+        "image": "luckychip.png",
+        "url": "https://luckychip.io"
+      },
+      {
+        "title": "Uniclix app",
+        "category": "Social media management",
+        "image": "uniclix.png",
+        "url": "https://uniclixapp.com"
+      },
+      {
+        "title": "JD Landscaping",
+        "category": "Real Estate website",
+        "image": "jdlandscaping.png",
+        "url": "https://jdlandscaping.net"
+      },
+      {
+        "title": "Carrus",
+        "category": "Coaching platform",
+        "image": "carrus.png",
+        "url": "https://carrus.io"
+      },
+      {
+        "title": "Portillos",
+        "category": "Portillos Restaurant website",
+        "image": "portillos.png",
+        "url": "https://portillos.com"
+      },
+      {
+        "title": "SportUnity",
+        "category": "Sport community site",
+        "image": "sportunity.png",
+        "url": "https://sportunity.com"
+      },
+      {
+        "title": "Babypunks",
+        "category": "NFT marketplace",
+        "image": "babypunks.png",
+        "url": "https://babypunks.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Michael and the team of developers working on my project were AMAZING. Communication was always immediate and they understood the tasks. The development they did (Creating a custom website platform: front and back end) was excellent. They also created a Smart Contract and synced the Blockchain with my website to integrate transactions. They are very patient and attended to my requests immediately. This team is definitely a great one. After working with them for months, I highly recommend them.",
+        "user": "Graham Anderson"
+      },
+      {
+        "text": "He is probably the best web developer. His reviews speak for themselves, and I'm here to just add another one. He is experienced, takes a holistic approach, and is an invaluable asset to me and many others who have brought him on as a developer for their projects. If you need a developer for your web project, look no further.",
+        "user": "Shayne Mallard"
+      },
+      {
+        "text": "Amazing work, we will continue working together and definitely recommended for everything blockchain and smart contract related!",
+        "user": "Laurent Taylor"
+      },
+      {
+        "text": "Michael went way beyond what i expected of him,came up with a novel approach that i never consider.he's hard working and delivered a complicated project way faster than I thought he would.i will definitely work with him again in the future as programmer with his work ethic and talent are extremely rare.",
+        "user": "Joseph Rowland"
+      }
+    ]
+  }
+}
